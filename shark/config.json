@@ -13,6 +13,7 @@
     "11": [133, 209],
     "12": [238, 115],
     "13": [110, 83],
+    "14": [83, 273],
     "eat": [160, 285]
   },
   "notifies": {
@@ -29,6 +30,7 @@
     "11": "鲨抱",
     "12": "鲨糖",
     "13": "鲨吞",
+    "14": "鲨画",
     "eat": "吃饼"
   },
   "needDownloadFileList": [
@@ -45,6 +47,7 @@
     "https://raw.githubusercontent.com/fishingworld/PagerMaid_Plugins/master/shark/mask11.png",
     "https://raw.githubusercontent.com/fishingworld/PagerMaid_Plugins/master/shark/mask12.png",
     "https://raw.githubusercontent.com/fishingworld/PagerMaid_Plugins/master/shark/mask13.png",
+    "https://raw.githubusercontent.com/fishingworld/PagerMaid_Plugins/master/shark/mask14.png",
     "https://raw.githubusercontent.com/fishingworld/PagerMaid_Plugins/master/shark/maskeat.png",
     "https://raw.githubusercontent.com/fishingworld/PagerMaid_Plugins/master/shark/shark1.png",
     "https://raw.githubusercontent.com/fishingworld/PagerMaid_Plugins/master/shark/shark2.png",
@@ -59,6 +62,7 @@
     "https://raw.githubusercontent.com/fishingworld/PagerMaid_Plugins/master/shark/shark11.png",
     "https://raw.githubusercontent.com/fishingworld/PagerMaid_Plugins/master/shark/shark12.png",
     "https://raw.githubusercontent.com/fishingworld/PagerMaid_Plugins/master/shark/shark13.png",
+    "https://raw.githubusercontent.com/fishingworld/PagerMaid_Plugins/master/shark/shark14.png",
     "https://raw.githubusercontent.com/fishingworld/PagerMaid_Plugins/master/shark/sharkeat.png"
   ]
 }
