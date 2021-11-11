@@ -11,7 +11,8 @@
     "9": [42, 142],
     "10": [31, 187],
     "11": [133, 209],
-    "12": [238, 115]
+    "12": [238, 115],
+    "13": [110, 83],
   },
   "notifies": {
     "1": "鲨追",
@@ -25,7 +26,8 @@
     "9": "鲨吃",
     "10": "鲨炮",
     "11": "鲨抱",
-    "12": "鲨糖"
+    "12": "鲨糖",
+    "13": "鲨吞"
   },
   "needDownloadFileList": [
     "https://raw.githubusercontent.com/fishingworld/PagerMaid_Plugins/master/shark/mask1.png",
