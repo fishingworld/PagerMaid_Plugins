@@ -5,7 +5,7 @@
     "3": [60, 221],
     "4": [63, 379],
     "5": [291, 202],
-    "6": [243, 55],
+    "6": [243, 55], 
     "7": [31, 191],
     "8": [22, 338],
     "9": [42, 142],
@@ -14,7 +14,9 @@
     "12": [238, 115],
     "13": [110, 83],
     "14": [83, 273],
-    "eat": [160, 285]
+    "15": [96, 109],
+    "16": [119, 75],
+    "17": [126, 126]
   },
   "notifies": {
     "1": "鲨追",
@@ -31,7 +33,9 @@
     "12": "鲨糖",
     "13": "鲨吞",
     "14": "鲨画",
-    "eat": "吃饼"
+    "15": "鲨鱼",
+    "16": "鲨牛",
+    "17": "鲨狗"
   },
   "needDownloadFileList": [
     "https://raw.githubusercontent.com/fishingworld/PagerMaid_Plugins/master/shark/mask1.png",
@@ -48,7 +52,9 @@
     "https://raw.githubusercontent.com/fishingworld/PagerMaid_Plugins/master/shark/mask12.png",
     "https://raw.githubusercontent.com/fishingworld/PagerMaid_Plugins/master/shark/mask13.png",
     "https://raw.githubusercontent.com/fishingworld/PagerMaid_Plugins/master/shark/mask14.png",
-    "https://raw.githubusercontent.com/fishingworld/PagerMaid_Plugins/master/shark/maskeat.png",
+    "https://raw.githubusercontent.com/fishingworld/PagerMaid_Plugins/master/shark/mask15.png",
+    "https://raw.githubusercontent.com/fishingworld/PagerMaid_Plugins/master/shark/mask16.png",
+    "https://raw.githubusercontent.com/fishingworld/PagerMaid_Plugins/master/shark/mask17.png",
     "https://raw.githubusercontent.com/fishingworld/PagerMaid_Plugins/master/shark/shark1.png",
     "https://raw.githubusercontent.com/fishingworld/PagerMaid_Plugins/master/shark/shark2.png",
     "https://raw.githubusercontent.com/fishingworld/PagerMaid_Plugins/master/shark/shark3.png",
@@ -63,6 +69,8 @@
     "https://raw.githubusercontent.com/fishingworld/PagerMaid_Plugins/master/shark/shark12.png",
     "https://raw.githubusercontent.com/fishingworld/PagerMaid_Plugins/master/shark/shark13.png",
     "https://raw.githubusercontent.com/fishingworld/PagerMaid_Plugins/master/shark/shark14.png",
-    "https://raw.githubusercontent.com/fishingworld/PagerMaid_Plugins/master/shark/sharkeat.png"
+    "https://raw.githubusercontent.com/fishingworld/PagerMaid_Plugins/master/shark/shark15.png",
+    "https://raw.githubusercontent.com/fishingworld/PagerMaid_Plugins/master/shark/shark16.png",
+    "https://raw.githubusercontent.com/fishingworld/PagerMaid_Plugins/master/shark/shark17.png"
   ]
 }
