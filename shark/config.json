@@ -18,7 +18,8 @@
     "16": [119, 75],
     "17": [126, 126],
     "dou": [195, 193],
-    "bao": [126, 303]
+    "bao": [126, 303],
+    "diang": [368, 193]
   },
   "notifies": {
     "1": "鲨追",
@@ -39,7 +40,8 @@
     "16": "鲨牛",
     "17": "鲨狗",
     "dou": "怪味豆",
-    "bao": "小宝"
+    "bao": "小宝",
+    "diang": "叮当猫"
   },
   "needDownloadFileList": [
     "https://raw.githubusercontent.com/fishingworld/PagerMaid_Plugins/master/shark/mask1.png",
@@ -61,6 +63,7 @@
     "https://raw.githubusercontent.com/fishingworld/PagerMaid_Plugins/master/shark/mask17.png",
     "https://raw.githubusercontent.com/fishingworld/PagerMaid_Plugins/master/shark/maskdou.png",
     "https://raw.githubusercontent.com/fishingworld/PagerMaid_Plugins/master/shark/maskbao.png",
+    "https://raw.githubusercontent.com/fishingworld/PagerMaid_Plugins/master/shark/maskdiang.png",
     "https://raw.githubusercontent.com/fishingworld/PagerMaid_Plugins/master/shark/shark1.png",
     "https://raw.githubusercontent.com/fishingworld/PagerMaid_Plugins/master/shark/shark2.png",
     "https://raw.githubusercontent.com/fishingworld/PagerMaid_Plugins/master/shark/shark3.png",
@@ -79,6 +82,7 @@
     "https://raw.githubusercontent.com/fishingworld/PagerMaid_Plugins/master/shark/shark16.png",
     "https://raw.githubusercontent.com/fishingworld/PagerMaid_Plugins/master/shark/shark17.png",
     "https://raw.githubusercontent.com/fishingworld/PagerMaid_Plugins/master/shark/sharkbao.png",
+    "https://raw.githubusercontent.com/fishingworld/PagerMaid_Plugins/master/shark/sharkdiang.png",
     "https://raw.githubusercontent.com/fishingworld/PagerMaid_Plugins/master/shark/sharkdou.png"
   ]
 }
